@@ -1,0 +1,47 @@
+# ===============================
+# Java / Maven Automation Framework
+# ===============================
+
+# === Maven build folders ===
+target/
+test-output/
+surefire-reports/
+extent-reports/
+
+# === IntelliJ IDEA / Eclipse ===
+.idea/
+*.iml
+*.classpath
+*.project
+.settings/
+out/
+bin/
+
+# === Logs and reports ===
+*.log
+*.html
+*.xml
+*.json
+
+# === OS-generated files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Temporary / Backup files ===
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# === Other exclusions ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Keep essential files ===
+!pom.xml
+!src/**
+
