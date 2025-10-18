@@ -79,8 +79,10 @@ target/cucumber-reports.html
 
 ---
 ## 📈 Reports
+
 Currently, the framework generates a **basic HTML report**.  
 **Allure** and **Extent Reports** integration will be added in upcoming updates.
+
 ---
 ## 💻 About Me
 I’m a **QA Engineer with 8.6 years of experience** in manual and automation testing. I hold **ISTQB-CTFL** and **Agile Tester** certifications and have strong expertise in **functional and regression testing**, **Selenium**, and **Cucumber**. This framework is part of my journey to strengthen my automation skills and build reusable frameworks for real-world testing projects.
