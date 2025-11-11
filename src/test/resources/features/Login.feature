@@ -4,7 +4,7 @@ Feature: Login functionality
   I want to login to the application
   So that I can access Products page
 
-  @Demo
+  @Demo1
   Scenario: Login to Sauce demo
     Given I am on the SauceDemo login page
     When I enter username and password
